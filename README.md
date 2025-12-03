@@ -2,7 +2,15 @@
 
 Repositório contendo a resolução da **Lista Avaliativa B** da disciplina de Métodos Numéricos para Engenharia (FGA/UnB).
 
-**Alunos:** [Seu Nome Completo]  
+**Alunos:** Grupo 12
+Antônio Lucas de Araújo Lima,
+João Paulo da Silva Pereira,
+Gustavo de Lima Mendes,
+Vinicius Silva Araruna,
+Gabriela Vasconcelos Gebran,
+Miguel Dias Peixoto,
+Bernardo Campos Caxito Silveira,
+Gabriel Mota Oliveira,
 **Curso:** Engenharia de Software
 **Semestre:** 2º/2025  
 
@@ -32,8 +40,8 @@ Repositório contendo a resolução da **Lista Avaliativa B** da disciplina de M
     jupyter notebook notebooks/Lista_B_Resolucao.ipynb
     ```
     🛠️ Tecnologias
-NumPy: Computação científica e matricial.
+    NumPy: Computação científica e matricial.
 
-Matplotlib: Visualização de dados e gráficos.
+    Matplotlib: Visualização de dados e gráficos.
 
-Jupyter: Ambiente de desenvolvimento interativo.
+    Jupyter: Ambiente de desenvolvimento interativo.
